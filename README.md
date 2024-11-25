@@ -35,7 +35,6 @@ Quiz Game with Leaderboard
 Multi-Player Tic-Tac-Toe
 Command-Line File Organizer
 
-////////////////////////////////////////////////////////////////////
 
 # Этот репозиторий для проектов на чистом C#.
 
