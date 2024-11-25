@@ -26,7 +26,7 @@ I want to divide them to Basic projects and Intermediate projects.
 - JSON Analyzer
 - Daily Planner
 
-##List of projects(Advanced level)
+## List of projects(Advanced level)
 - Personal Finance Manage
 - Chat Room Simulator
 - Car Rental Management System
