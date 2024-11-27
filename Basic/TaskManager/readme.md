@@ -1,4 +1,5 @@
-The Task Manager is a simple console-based application designed to manage tasks. It allows users to perform various operations such as adding, viewing, and removing tasks. Each task has details such as a title, description, creation and update timestamps, due time, and progress status.
+Task Manager is a simple console-based application designed to manage tasks. It allows users to perform various operations such as adding, viewing, and removing tasks. Each task has details such as a title, description, creation and update timestamps, due time, and progress status.
+This app was made for study purpose.
 # Features
 - Add Tasks: Users can create tasks by providing a title, description, and due time (in days).
 - View Tasks: Users can view all tasks currently stored in the application.
