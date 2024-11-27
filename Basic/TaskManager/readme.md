@@ -27,23 +27,23 @@ This app was made for study purpose.
 
 # Usage
 Console menu!
-[Screenshot](https://github.com/user-attachments/assets/a367b43e-8a4a-41cd-b81a-d4594232948c)
+![Screenshot](https://github.com/user-attachments/assets/a367b43e-8a4a-41cd-b81a-d4594232948c)
 # Add Task
 - Enter the title for the task.
 - Enter a description.
 - Enter the due time in days (a number).
 - Choose the progress status (Done, In Progress, Undone).
-[Screenshot 2](https://github.com/user-attachments/assets/98975cdd-069e-41f2-916d-1bb7516e3fbe)
+![Screenshot 2](https://github.com/user-attachments/assets/98975cdd-069e-41f2-916d-1bb7516e3fbe)
 
 
 # View All Tasks
 - Displays all tasks with their details: ID, title, description, and progress.
-[Screenshot 3](https://github.com/user-attachments/assets/317de231-ec76-405d-89d7-d18404077ad0)
+![Screenshot 3](https://github.com/user-attachments/assets/317de231-ec76-405d-89d7-d18404077ad0)
 
 
 # Remove Task
 - Enter the task ID to remove the task from the list.
-[Screenshot 4](https://github.com/user-attachments/assets/0a468671-dff0-4d5d-ada4-3e464ae57068)
+![Screenshot 4](https://github.com/user-attachments/assets/0a468671-dff0-4d5d-ada4-3e464ae57068)
 
 # Update Task Progress
 - You can update a task's progress status using the available progress options: Done, In Progress, and Undone.
