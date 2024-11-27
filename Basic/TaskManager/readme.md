@@ -31,16 +31,22 @@ Console menu!
 - Enter the title for the task.
 - Enter a description.
 - Enter the due time in days (a number).
- - Choose the progress status (Done, In Progress, Undone).
+- Choose the progress status (Done, In Progress, Undone).
+[Screenshot 2](https://github.com/user-attachments/assets/98975cdd-069e-41f2-916d-1bb7516e3fbe)
+
 
 # View All Tasks
 -Displays all tasks with their details: ID, title, description, and progress.
+[Screenshor 3](https://github.com/user-attachments/assets/317de231-ec76-405d-89d7-d18404077ad0)
+
 
 # Remove Task
 - Enter the task ID to remove the task from the list.
+[Screenshot 4](https://github.com/user-attachments/assets/0a468671-dff0-4d5d-ada4-3e464ae57068)
 
 # Update Task Progress
 - You can update a task's progress status using the available progress options: Done, In Progress, and Undone.
+![Screenshot 5](https://github.com/user-attachments/assets/880951aa-11af-462b-ba6e-1a4621b09d97)
 
 #File Storage
 - Tasks are stored in a tasks.json file in the data folder. If the file doesn't exist, it will be created when the application starts.
