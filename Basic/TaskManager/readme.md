@@ -11,7 +11,7 @@ The Task Manager is a simple console-based application designed to manage tasks.
 - Newtonsoft.Json library (for JSON handling)
 - Console-based user interface
 
-#Setup 
+# Setup 
 - Clone this repository to your local machine.
 - Navigate to the project directory.
 - Run the application.
@@ -36,7 +36,7 @@ Console menu!
 
 
 # View All Tasks
--Displays all tasks with their details: ID, title, description, and progress.
+- Displays all tasks with their details: ID, title, description, and progress.
 [Screenshor 3](https://github.com/user-attachments/assets/317de231-ec76-405d-89d7-d18404077ad0)
 
 
