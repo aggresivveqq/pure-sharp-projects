@@ -26,7 +26,7 @@ The Task Manager is a simple console-based application designed to manage tasks.
 
 # Usage
 Console menu!
-[Снимок экрана 2024-11-28 013922](https://github.com/user-attachments/assets/a367b43e-8a4a-41cd-b81a-d4594232948c)
+[Screenshot](https://github.com/user-attachments/assets/a367b43e-8a4a-41cd-b81a-d4594232948c)
 # Add Task
 - Enter the title for the task.
 - Enter a description.
