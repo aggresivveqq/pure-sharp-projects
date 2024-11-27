@@ -49,10 +49,10 @@ Console menu!
 - You can update a task's progress status using the available progress options: Done, In Progress, and Undone.
 ![Screenshot 5](https://github.com/user-attachments/assets/880951aa-11af-462b-ba6e-1a4621b09d97)
 
-#File Storage
+# File Storage
 - Tasks are stored in a tasks.json file in the data folder. If the file doesn't exist, it will be created when the application starts.
 
-#JSON File Format
+# JSON File Format
 - The JSON file contains a list of tasks with the following structure:
 
 [
