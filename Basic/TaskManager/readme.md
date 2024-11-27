@@ -23,3 +23,42 @@ The Task Manager is a simple console-based application designed to manage tasks.
 # Dependencies
 - Newtonsoft.Json: This library is used for serializing and deserializing task data to and from JSON format.
 - Via NuGet :dotnet add package Newtonsoft.Json
+
+# Usage
+Console menu!
+[Снимок экрана 2024-11-28 013922](https://github.com/user-attachments/assets/a367b43e-8a4a-41cd-b81a-d4594232948c)
+# Add Task
+- Enter the title for the task.
+- Enter a description.
+- Enter the due time in days (a number).
+ - Choose the progress status (Done, In Progress, Undone).
+
+# View All Tasks
+-Displays all tasks with their details: ID, title, description, and progress.
+
+# Remove Task
+- Enter the task ID to remove the task from the list.
+
+# Update Task Progress
+- You can update a task's progress status using the available progress options: Done, In Progress, and Undone.
+
+#File Storage
+- Tasks are stored in a tasks.json file in the data folder. If the file doesn't exist, it will be created when the application starts.
+
+#JSON File Format
+- The JSON file contains a list of tasks with the following structure:
+
+[
+  {
+    "Id": 1,
+    "Title": "Task 1",
+    "Description": "Description of Task 1",
+    "CreatedAt": "2024-11-27T12:00:00",
+    "UpdatedAt": "2024-11-27T12:00:00",
+    "DueTime": "2024-11-29T12:00:00",
+    "Status": "Undone"
+  }
+]
+
+
+
