@@ -37,7 +37,7 @@ Console menu!
 
 # View All Tasks
 - Displays all tasks with their details: ID, title, description, and progress.
-[Screenshor 3](https://github.com/user-attachments/assets/317de231-ec76-405d-89d7-d18404077ad0)
+[Screenshot 3](https://github.com/user-attachments/assets/317de231-ec76-405d-89d7-d18404077ad0)
 
 
 # Remove Task
