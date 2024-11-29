@@ -1,0 +1,14 @@
+C:\Users\china\source\repos\Complex Number Calculator\Complex Number Calculator\obj\Debug\net8.0\Complex Number Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\china\source\repos\Complex Number Calculator\Complex Number Calculator\obj\Debug\net8.0\Complex Number Calculator.AssemblyInfoInputs.cache
+C:\Users\china\source\repos\Complex Number Calculator\Complex Number Calculator\obj\Debug\net8.0\Complex Number Calculator.AssemblyInfo.cs
+C:\Users\china\source\repos\Complex Number Calculator\Complex Number Calculator\obj\Debug\net8.0\Complex Number Calculator.csproj.CoreCompileInputs.cache
+C:\Users\china\source\repos\Complex Number Calculator\Complex Number Calculator\bin\Debug\net8.0\Complex Number Calculator.exe
+C:\Users\china\source\repos\Complex Number Calculator\Complex Number Calculator\bin\Debug\net8.0\Complex Number Calculator.deps.json
+C:\Users\china\source\repos\Complex Number Calculator\Complex Number Calculator\bin\Debug\net8.0\Complex Number Calculator.runtimeconfig.json
+C:\Users\china\source\repos\Complex Number Calculator\Complex Number Calculator\bin\Debug\net8.0\Complex Number Calculator.dll
+C:\Users\china\source\repos\Complex Number Calculator\Complex Number Calculator\bin\Debug\net8.0\Complex Number Calculator.pdb
+C:\Users\china\source\repos\Complex Number Calculator\Complex Number Calculator\obj\Debug\net8.0\Complex Number Calculator.dll
+C:\Users\china\source\repos\Complex Number Calculator\Complex Number Calculator\obj\Debug\net8.0\refint\Complex Number Calculator.dll
+C:\Users\china\source\repos\Complex Number Calculator\Complex Number Calculator\obj\Debug\net8.0\Complex Number Calculator.pdb
+C:\Users\china\source\repos\Complex Number Calculator\Complex Number Calculator\obj\Debug\net8.0\Complex Number Calculator.genruntimeconfig.cache
+C:\Users\china\source\repos\Complex Number Calculator\Complex Number Calculator\obj\Debug\net8.0\ref\Complex Number Calculator.dll
