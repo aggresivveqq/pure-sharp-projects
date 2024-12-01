@@ -1,6 +1,6 @@
 # This repository for pure C# projects.
 
-Here you can see list of project that i used for future projects.This repository main purpose is to structure my projects.Also,i want to divide them by difficulties. (Basic projects and Intermediate projects.)
+Here you can see list of project that i used for future projects.This repository main purpose is to structure my projects.Also,i want to divide them by difficulties. (Basic projects and Intermediate projects.))
 
 ## If you want to know more detailed information about project,you can read README file in their folder.
 
