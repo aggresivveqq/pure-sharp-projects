@@ -1,0 +1,17 @@
+C:\Users\china\source\repos\VirtStore\VirtStore\bin\Debug\net8.0\VirtStore.exe
+C:\Users\china\source\repos\VirtStore\VirtStore\bin\Debug\net8.0\VirtStore.deps.json
+C:\Users\china\source\repos\VirtStore\VirtStore\bin\Debug\net8.0\VirtStore.runtimeconfig.json
+C:\Users\china\source\repos\VirtStore\VirtStore\bin\Debug\net8.0\VirtStore.dll
+C:\Users\china\source\repos\VirtStore\VirtStore\bin\Debug\net8.0\VirtStore.pdb
+C:\Users\china\source\repos\VirtStore\VirtStore\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\china\source\repos\VirtStore\VirtStore\obj\Debug\net8.0\VirtStore.csproj.AssemblyReference.cache
+C:\Users\china\source\repos\VirtStore\VirtStore\obj\Debug\net8.0\VirtStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\china\source\repos\VirtStore\VirtStore\obj\Debug\net8.0\VirtStore.AssemblyInfoInputs.cache
+C:\Users\china\source\repos\VirtStore\VirtStore\obj\Debug\net8.0\VirtStore.AssemblyInfo.cs
+C:\Users\china\source\repos\VirtStore\VirtStore\obj\Debug\net8.0\VirtStore.csproj.CoreCompileInputs.cache
+C:\Users\china\source\repos\VirtStore\VirtStore\obj\Debug\net8.0\VirtStore.csproj.Up2Date
+C:\Users\china\source\repos\VirtStore\VirtStore\obj\Debug\net8.0\VirtStore.dll
+C:\Users\china\source\repos\VirtStore\VirtStore\obj\Debug\net8.0\refint\VirtStore.dll
+C:\Users\china\source\repos\VirtStore\VirtStore\obj\Debug\net8.0\VirtStore.pdb
+C:\Users\china\source\repos\VirtStore\VirtStore\obj\Debug\net8.0\VirtStore.genruntimeconfig.cache
+C:\Users\china\source\repos\VirtStore\VirtStore\obj\Debug\net8.0\ref\VirtStore.dll
