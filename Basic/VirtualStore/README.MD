@@ -23,7 +23,6 @@ Admin Panel: Manage users and oversee store operations.
 
 Customer Panel: Browse and purchase products.
 
-Seller Panel: Manage products listed by the seller.
 
 ## Technologies Used
 
