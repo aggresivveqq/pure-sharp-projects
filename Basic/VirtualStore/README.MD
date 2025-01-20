@@ -1,19 +1,23 @@
 # csharp virtual store
-Virtual Store
+## Virtual Store
 
-Overview
+## Overview
 
-Virtual Store is a console-based application designed to simulate the functionalities of an online shopping platform. It includes authentication, product management, a shopping cart, and dedicated panels for admin, customers, and sellers. Data is stored in JSON format, providing a lightweight and flexible way to manage information.
+Virtual Store is a console-based application designed to simulate the functionalities of an online shopping platform. It includes authentication, product management, a shopping cart, and dedicated panels for admin, customers. Data is stored in JSON format, providing a lightweight and flexible way to manage information.
 
-Features
+## Features
 
-Authentication: Secure login system for different user roles (admin, seller, customer).
+- Authentication: Secure login system for different user roles (admin, customer).
 
-Product Management: CRUD operations for products.
+- Product Management: CRUD operations for products.
 
-Shopping Cart: Add, update, and remove items.
+- Shopping Cart: Add, update, and remove items.
 
-Panels:
+- Orders: Add,update,confirm orders.
+
+- Order status:Have order status,which can easily modified.
+
+## Panels:
 
 Admin Panel: Manage users and oversee store operations.
 
@@ -21,16 +25,28 @@ Customer Panel: Browse and purchase products.
 
 Seller Panel: Manage products listed by the seller.
 
-Technologies Used
+## Technologies Used
 
-C#
+- C#
 
-.NET 8.0
+- .NET 8.0
 
-Newtonsoft.Json: For JSON serialization and deserialization.
+- Newtonsoft.Json: For JSON serialization and deserialization.
 
-Project Structure:
-Repository:CartRepository,OrderRepository,
+##Project Structure:
+
+Interfaces
+- Purpose: Defines the contract for classes that interact with the data (repositories) and business logic in your application.
+- Task: Interfaces provide an abstraction for the interaction between different layers of the application (data access, business logic, etc.). They make it easier to manage dependencies and allow for mock testing.
+Repositories
+- Purpose: Classes that implement the interfaces defined above to interact with the data source (e.g., database, in-memory storage).
+- Task: These classes perform the actual operations to manage data (e.g., saving and retrieving data).
+ Admin
+- Purpose: Provides functionalities that only an admin can access, such as managing products, users, and viewing reports.
+- Task: Allows administrators to perform operations that manage the store, including CRUD operations for products and users, as well as administrative tasks such as generating reports or approving new users.
+ Menu
+- Purpose: Manages the user interface and provides navigation between different sections of the application.
+- Task: Displays a menu for the user to interact with and choose various options, such as logging in, registering, accessing the admin panel, or viewing products. It handles the flow of control based on the user's input.
 
 
 Installation
