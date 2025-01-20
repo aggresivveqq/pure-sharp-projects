@@ -34,18 +34,18 @@ Customer Panel: Browse and purchase products.
 
 - Newtonsoft.Json: For JSON serialization and deserialization.
 
-##Project Structure:
+## Project Structure:
 
-#Interfaces
+# Interfaces
 - Purpose: Defines the contract for classes that interact with the data (repositories) and business logic in your application.
 - Task: Interfaces provide an abstraction for the interaction between different layers of the application (data access, business logic, etc.). They make it easier to manage dependencies and allow for mock testing.
-#Repositories
+# Repositories
 - Purpose: Classes that implement the interfaces defined above to interact with the data source (e.g., database, in-memory storage).
 - Task: These classes perform the actual operations to manage data (e.g., saving and retrieving data).
-#Admin
+# Admin
 - Purpose: Provides functionalities that only an admin can access, such as managing products, users, and viewing reports.
 - Task: Allows administrators to perform operations that manage the store, including CRUD operations for products and users, as well as administrative tasks such as generating reports or approving new users.
-#Menu
+# Menu
 - Purpose: Manages the user interface and provides navigation between different sections of the application.
 - Task: Displays a menu for the user to interact with and choose various options, such as logging in, registering, accessing the admin panel, or viewing products. It handles the flow of control based on the user's input.
 
