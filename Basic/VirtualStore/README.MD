@@ -56,17 +56,18 @@ Customer Panel: Browse and purchase products.
 
 - git clone <repository-url>
 
+# Install Newtonsoft.json:
+
+- Install-Package Newtonsoft.Json 
 
 - Open the Project:
 - Open Store.sln in Visual Studio or your preferred IDE.
 
-# Restore Dependencies:
 - Run the following command to restore dependencies:
 
 - dotnet restore
 
 # Run the Application:
-# Use the command below to execute the application:
 
 - dotnet run --project Store
 
