@@ -36,39 +36,39 @@ Customer Panel: Browse and purchase products.
 
 ##Project Structure:
 
-Interfaces
+#Interfaces
 - Purpose: Defines the contract for classes that interact with the data (repositories) and business logic in your application.
 - Task: Interfaces provide an abstraction for the interaction between different layers of the application (data access, business logic, etc.). They make it easier to manage dependencies and allow for mock testing.
-Repositories
+#Repositories
 - Purpose: Classes that implement the interfaces defined above to interact with the data source (e.g., database, in-memory storage).
 - Task: These classes perform the actual operations to manage data (e.g., saving and retrieving data).
- Admin
+#Admin
 - Purpose: Provides functionalities that only an admin can access, such as managing products, users, and viewing reports.
 - Task: Allows administrators to perform operations that manage the store, including CRUD operations for products and users, as well as administrative tasks such as generating reports or approving new users.
- Menu
+#Menu
 - Purpose: Manages the user interface and provides navigation between different sections of the application.
 - Task: Displays a menu for the user to interact with and choose various options, such as logging in, registering, accessing the admin panel, or viewing products. It handles the flow of control based on the user's input.
 
 
-Installation
+#Installation
 
-Clone the Repository:
+- Clone the Repository:
 
-git clone <repository-url>
-cd VirtualStore
+- git clone <repository-url>
 
-Open the Project:
-Open Store.sln in Visual Studio or your preferred IDE.
 
-Restore Dependencies:
-Run the following command to restore dependencies:
+- Open the Project:
+- Open Store.sln in Visual Studio or your preferred IDE.
 
-dotnet restore
+#Restore Dependencies:
+- Run the following command to restore dependencies:
 
-Run the Application:
-Use the command below to execute the application:
+- dotnet restore
 
-dotnet run --project Store
+#Run the Application:
+# Use the command below to execute the application:
+
+- dotnet run --project Store
 
 ##Configuration
 
