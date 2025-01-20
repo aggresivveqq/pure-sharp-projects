@@ -9,6 +9,8 @@ Virtual Store is a console-based application designed to simulate the functional
 
 - Authentication: Secure login system for different user roles (admin, customer).
 
+- Registration: Different user's with user information(carts,orders).
+
 - Product Management: CRUD operations for products.
 
 - Shopping Cart: Add, update, and remove items.
