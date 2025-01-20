@@ -56,7 +56,7 @@ Customer Panel: Browse and purchase products.
 
 - git clone <repository-url>
 
-# Install Newtonsoft.json:
+## Install Newtonsoft.json:
 
 - Install-Package Newtonsoft.Json 
 
@@ -67,7 +67,7 @@ Customer Panel: Browse and purchase products.
 
 - dotnet restore
 
-# Run the Application:
+## Run the Application:
 
 - dotnet run --project Store
 
