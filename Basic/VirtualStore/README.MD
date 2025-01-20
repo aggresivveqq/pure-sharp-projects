@@ -53,43 +53,40 @@ Use the command below to execute the application:
 
 dotnet run --project Store
 
-Configuration
+##Configuration
 
 Data Storage: JSON files (Cart.json, Order.json, Product.json) are located in bin/Debug/net8.0/. These files are used to persist application data.
 
 Custom Settings: Modify JSON files to prepopulate data or update configuration as needed.
 
-Usage
+##Usage
 
 Run the Application: Start the program using the dotnet run command.
 
-Authenticate: Log in as an admin, seller, or customer.
+Authenticate: Log in as an admin or customer.
 
-Explore Features:
+##Explore Features:
 
 Admin: Manage users and oversee store operations.
+Operations:
+- CRUD products.
+- Show user list(Orders and Carts included).
+- Can modify users order.
 
-Customer: Browse and shop for products.
+Customer:Adding products to cart.Create orders.
+- Operations:
+- Add products to cart.
+- Delete products from cart.
+- Update amount of products in cart.
+- Create orders.
 
-Seller: Add, update, and delete products.
 
-Contributing
 
-Fork the repository.
-
-Create a feature branch: git checkout -b feature-name.
-
-Commit your changes: git commit -m 'Add feature-name'.
-
-Push to the branch: git push origin feature-name.
-
-Open a pull request.
-
-License
+##License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Acknowledgments
+##Acknowledgments
 
 Newtonsoft.Json for seamless JSON handling.
 
