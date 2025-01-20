@@ -50,7 +50,7 @@ Customer Panel: Browse and purchase products.
 - Task: Displays a menu for the user to interact with and choose various options, such as logging in, registering, accessing the admin panel, or viewing products. It handles the flow of control based on the user's input.
 
 
-#Installation
+# Installation
 
 - Clone the Repository:
 
@@ -60,29 +60,29 @@ Customer Panel: Browse and purchase products.
 - Open the Project:
 - Open Store.sln in Visual Studio or your preferred IDE.
 
-#Restore Dependencies:
+# Restore Dependencies:
 - Run the following command to restore dependencies:
 
 - dotnet restore
 
-#Run the Application:
+# Run the Application:
 # Use the command below to execute the application:
 
 - dotnet run --project Store
 
-##Configuration
+## Configuration
 
 Data Storage: JSON files (Cart.json, Order.json, Product.json) are located in bin/Debug/net8.0/. These files are used to persist application data.
 
 Custom Settings: Modify JSON files to prepopulate data or update configuration as needed.
 
-##Usage
+## Usage
 
 Run the Application: Start the program using the dotnet run command.
 
 Authenticate: Log in as an admin or customer.
 
-##Explore Features:
+## Explore Features:
 
 Admin: Manage users and oversee store operations.
 Operations:
@@ -99,11 +99,11 @@ Customer:Adding products to cart.Create orders.
 
 
 
-##License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-##Acknowledgments
+## Acknowledgments
 
 Newtonsoft.Json for seamless JSON handling.
 
