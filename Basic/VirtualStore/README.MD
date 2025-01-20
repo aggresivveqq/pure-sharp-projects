@@ -54,7 +54,7 @@ Customer Panel: Browse and purchase products.
 
 - Clone the Repository:
 
-- git clone <repository-url>
+- git clone github.com/aggresivveqq/pure-sharp-projects/tree/main/Basic/VirtualStore
 
 ## Install Newtonsoft.json:
 
