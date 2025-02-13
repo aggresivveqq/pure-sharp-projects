@@ -14,8 +14,6 @@ Here you can see list of project that i used for future projects.This repository
 - Task Manager
 - Complex Number Calculator
 - Virtual Store
-- Password Generator
-- Text Analyzer
 - Console Chatbot
 - Queue Simulator
 - Tic-Tac-Toe Game
